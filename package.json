@@ -17,14 +17,28 @@
   },
   "keywords": [
     "mcp",
+    "claude",
+    "ai-agent",
     "playwright",
     "demo",
+    "screen-recording",
+    "screenshot",
+    "gif",
     "documentation",
-    "automation",
-    "video-recording"
+    "tutorial",
+    "walkthrough",
+    "browser-automation"
   ],
-  "author": "",
+  "author": "G0d2i11a",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G0d2i11a/demosmith-mcp.git"
+  },
+  "homepage": "https://github.com/G0d2i11a/demosmith-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/G0d2i11a/demosmith-mcp/issues"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.25.2",
     "ffmpeg-static": "^5.2.0",
