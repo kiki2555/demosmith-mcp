@@ -1,0 +1,12 @@
+{
+  "name": "kiki2555/demosmith-mcp",
+  "description": "🎥 Record automated demos with video, screenshots, and AI narration using this MCP server for seamless product tutorials and documentation.",
+  "accepts": [
+    {
+      "network": "eip155:8453",
+      "asset": "USDC",
+      "address": "YOUR_WALLET_ADDRESS"
+    }
+  ],
+  "resources": []
+}
